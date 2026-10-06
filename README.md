@@ -49,8 +49,8 @@ The interface is inspired by qFlipper: orange on dark, grid background, rounded 
 
 ## Build
 
-```
-git clone <your repository url>
+```bash
+git clone https://github.com/tphogz/iHelpDevice
 cd iHelpDevice
 dotnet build -c Release
 ```
